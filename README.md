@@ -35,7 +35,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aishachanna&color=blueviolet&label=Profile+Views)
 [![Twitter: aishachanna](https://img.shields.io/twitter/follow/aishachanna?style=social)](https://twitter.com/aishachanna)
-[![Linkedin: aishachanna](https://img.shields.io/badge/-aishachanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashid/)](https://www.linkedin.com/in/rashidwassan/)
+[![Linkedin: aishachanna](https://img.shields.io/badge/-aishachanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashid/)](https://www.linkedin.com/in/aishachanna/)
 [![GitHub: aishachanna](https://img.shields.io/github/followers/aishachanna?label=follow&style=social)](https://github.com/iampawan)
 
 
